@@ -56,4 +56,5 @@ G40,high,yes,excellent,yes
 ![wdm2](https://github.com/user-attachments/assets/4b304169-ab57-40bb-84b1-035241f1858e)
 ![wdm3](https://github.com/user-attachments/assets/a0411d45-315e-4082-b10e-d15a99b6c220)
 
-### RESULT: 
+### RESULT:
+Thus, Generating Association Rules for Employee dataset using Apriori Algorithm is done.
